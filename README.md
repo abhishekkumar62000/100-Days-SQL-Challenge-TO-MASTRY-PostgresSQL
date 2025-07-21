@@ -210,10 +210,9 @@ Let's continue mastering data — one query at a time.
 
 \#SQL #PostgreSQL #100DaysOfCode #DataAnalytics #OpenSource
 
+
+Author:-- Abhishek Kumar(AI Engineer)
+
 ```
 
 ---
-
-Let me know if you want it turned into a GitHub issue, Gist, or included as a pinned project description.
-```
-
