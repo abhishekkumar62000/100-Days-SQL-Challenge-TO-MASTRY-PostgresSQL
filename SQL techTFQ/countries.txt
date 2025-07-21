@@ -1,0 +1,27 @@
+create table european_countries
+(
+	country 	varchar(30),
+	continent 	varchar(30)
+);
+insert into european_countries values('Turkey', 'Europe');
+insert into european_countries values('Germany', 'Europe');
+insert into european_countries values('Poland', 'Europe');
+insert into european_countries values('Russia', 'Europe');
+insert into european_countries values('France', 'Europe');
+
+create table asian_countries
+(
+	country 	varchar(30),
+	continent 	varchar(30)
+);
+insert into asian_countries values('India', 'Asia');
+insert into asian_countries values('Turkey', 'Asia');
+insert into asian_countries values('Malaysia', 'Asia');
+insert into asian_countries values('Russia', 'Asia');
+
+select * from european_countries;
+select * from asian_countries;
+
+select *
+from european_countries ec
+join asian_countries ac on ac.country = ec.country;
