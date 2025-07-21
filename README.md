@@ -1,6 +1,7 @@
 # 100-Days-SQL-Challenge-TO-MASTRY-PostgresSQL
  
-  
+ <img width="1024" height="1024" alt="ChatGPT Image Jul 21, 2025, 06_44_30 PM" src="https://github.com/user-attachments/assets/1fef3378-d20d-44a3-a2dd-3fd1fbcbf220" />
+
 ---
 
  
