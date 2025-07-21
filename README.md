@@ -1,4 +1,4 @@
-   # 100-Days-SQL-Challenge-TO-MASTRY-PostgresSQL
+# 100-Days-SQL-Challenge-TO-MASTRY-PostgresSQL
  
  
 --- 
